@@ -68,7 +68,8 @@ export default function About() {
               Alamat Perusahaan
             </h2>
             <p className="text-gray-700 text-sm md:text-base mt-2">
-              Jl. Lintas Tebo - Bungo km 06 kelurahan tebing tinggi kecamatan tebo tengah kabupaten tebo
+              Jl. Lintas Tebo - Bungo km 06 kelurahan tebing tinggi kecamatan
+              tebo tengah kabupaten tebo
             </p>
           </div>
         </div>
